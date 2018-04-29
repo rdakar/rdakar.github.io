@@ -5,4 +5,5 @@ To view [click here](http://rcianci.com).
 
 ## License
 
-Completely free (MIT)! See [LICENSE](LICENSE) for more.
+Completely free (MIT)! 
+See [LICENSE](LICENSE) for more.
